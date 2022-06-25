@@ -282,7 +282,7 @@ class NavigationBar extends Component {
 
                         <a
                             className={"nav-item"}
-                            href="/whole-cell-online-site/?msg="
+                            href="http://blog.wholecellonline.com/"
                             target="_blank">
                             <span>Blogs</span>
                         </a>
